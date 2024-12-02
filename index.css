@@ -33,7 +33,7 @@ li {
     display: inline-block;
     font-size: 1em;
     list-style-type: none;
-    padding: 1em;
+    padding: 2em;
     font-family: system-ui, '-apple-system', BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-style: bold;
     text-transform: uppercase;
